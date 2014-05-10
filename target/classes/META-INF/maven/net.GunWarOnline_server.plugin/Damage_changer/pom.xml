@@ -4,7 +4,7 @@
 
   <groupId>net.GunWarOnline_server.plugin</groupId>
   <artifactId>Damage_changer</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
+  <version>1.0.2-DEV</version>
   <packaging>jar</packaging>
 
   <name>Damage_changer</name>
