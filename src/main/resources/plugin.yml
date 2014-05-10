@@ -1,0 +1,6 @@
+name: ${project.name}
+version: ${project.version}
+website: http://bukkit-plugin.net
+main: net.GunWarOnline_server.plugin.Damage_changer.Main
+authors: [kojima1021, keepoff07]
+database: false
