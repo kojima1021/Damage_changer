@@ -9,7 +9,7 @@ import org.bukkit.plugin.java.JavaPlugin;
 
 /**
  *  Damage_Changerメインクラス
- * @author kojima1021
+ * @author kojima1021 and keepoff07
  */
 public class Main extends JavaPlugin implements Listener{
     //インスタンス
