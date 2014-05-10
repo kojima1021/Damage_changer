@@ -1,2 +1,7 @@
 enable: false
-DIAMOND_SWORD: 1.0
+DIAMOND_SWORD:
+  name: 2.0
+  test: 3.0
+APPLE:
+  name: 10.0
+  test: 6.0
